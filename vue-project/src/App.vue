@@ -5,8 +5,7 @@ const count = ref(0)
 </script>
 
 <template>
-  <main>
-    <h1>Hello, I'm Mehdi 👋</h1>
+  <main><h1>My First Automatic Deployment 🚀</h1>
 
     <p>I'm a Software Engineering student learning Vue.js.</p>
 
